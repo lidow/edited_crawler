@@ -16,5 +16,5 @@ This design is intendent to describe the infrastructure needed to host the crawl
 * [CI Low Level Design](documentation/developmentLLD.md)
 
 ## Deployment design
-* [CD High Level Design](documentation/deplymentHLD.md)
-* [CD Low Level Design](documentation/deplymentLLD.md)
+* [CD High Level Design](documentation/deploymentHLD.md)
+* [CD Low Level Design](documentation/deploymentLLD.md)

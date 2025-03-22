@@ -18,3 +18,6 @@ This design is intendent to describe the infrastructure needed to host the crawl
 ## Deployment design
 * [CD High Level Design](documentation/deploymentHLD.md)
 * [CD Low Level Design](documentation/deploymentLLD.md)
+
+## Robots
+[solution](robots)
